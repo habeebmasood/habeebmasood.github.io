@@ -1,0 +1,127 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "site"
+    label: "Site Content"
+    files:
+      - name: "site-data"
+        label: "Site Data"
+        file: "content/site-data.json"
+        format: "json"
+        fields:
+          # General Settings
+          - label: "General"
+            name: "general"
+            widget: "object"
+            fields:
+              - { label: "Site Title", name: "site_title", widget: "string" }
+              - { label: "Meta Description", name: "meta_description", widget: "text" }
+              - { label: "LinkedIn URL", name: "linkedin_url", widget: "string" }
+
+          # Hero Section
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Tagline", name: "tagline", widget: "string" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Bio", name: "bio", widget: "text" }
+              - label: "Stats"
+                name: "stats"
+                widget: "list"
+                fields:
+                  - { label: "Number", name: "number", widget: "string" }
+                  - { label: "Label", name: "label", widget: "string" }
+
+          # About Section
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - { label: "Heading", name: "heading", widget: "string" }
+              - { label: "Heading Accent", name: "heading_accent", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "text" }
+              - label: "Cards"
+                name: "cards"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Description", name: "description", widget: "text" }
+
+          # Education Section
+          - label: "Education"
+            name: "education"
+            widget: "object"
+            fields:
+              - label: "Education Items"
+                name: "education_items"
+                widget: "list"
+                fields:
+                  - { label: "Degree", name: "degree", widget: "string" }
+                  - { label: "Institution", name: "institution", widget: "string" }
+                  - { label: "Year", name: "year", widget: "string" }
+                  - { label: "Detail", name: "detail", widget: "text" }
+              - label: "Community Items"
+                name: "community_items"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Organization", name: "organization", widget: "string" }
+
+          # Experience Section
+          - label: "Experience"
+            name: "experience"
+            widget: "list"
+            fields:
+              - { label: "Date", name: "date", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Company", name: "company", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Tags", name: "tags", widget: "string", hint: "Comma-separated" }
+
+          # Projects Section
+          - label: "Projects"
+            name: "projects"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Category", name: "category", widget: "string" }
+              - { label: "Challenge", name: "challenge", widget: "text" }
+              - { label: "Approach", name: "approach", widget: "text" }
+              - { label: "Outcome", name: "outcome", widget: "text" }
+              - { label: "Tags", name: "tags", widget: "string", hint: "Comma-separated" }
+
+          # Skills Section
+          - label: "Skills"
+            name: "skills"
+            widget: "list"
+            fields:
+              - { label: "Category Name", name: "name", widget: "string" }
+              - { label: "Tags", name: "tags", widget: "string", hint: "Comma-separated" }
+
+          # Testimonials Section
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: "list"
+            fields:
+              - { label: "Quote", name: "quote", widget: "text" }
+              - { label: "Author Name", name: "author_name", widget: "string" }
+              - { label: "Author Title", name: "author_title", widget: "string" }
+              - { label: "Relationship", name: "relationship", widget: "string" }
+              - { label: "Initials", name: "initials", widget: "string" }
+
+          # Contact Section
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - { label: "Heading", name: "heading", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "text" }
+              - { label: "Email", name: "email", widget: "string" }
+              - { label: "Location", name: "location", widget: "string" }

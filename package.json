@@ -1,0 +1,11 @@
+{
+  "name": "habeeb-masood-site",
+  "version": "1.0.0",
+  "description": "Personal brand website for Habeeb Masood",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": ["portfolio", "personal-brand"],
+  "author": "Habeeb Masood",
+  "license": "MIT"
+}

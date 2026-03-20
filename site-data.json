@@ -1,0 +1,194 @@
+{
+  "general": {
+    "site_title": "Habeeb Masood | Consultative Sales Professional & Management Consulting",
+    "meta_description": "Habeeb Masood — Enterprise Sales Professional pursuing MSc Management Consultancy at UCD Smurfit. 6+ years driving multimillion-dollar ARR across Asia Pacific.",
+    "linkedin_url": "https://www.linkedin.com/in/habeebmasood"
+  },
+  "hero": {
+    "tagline": "From Enterprise Sales to Management Consulting",
+    "name": "Habeeb Masood",
+    "title": "Consultative Sales Professional | MSc Management Consultancy, UCD Smurfit",
+    "bio": "Over 6 years of closing multimillion-dollar SaaS deals across Asia Pacific taught me something unexpected — the part I loved most wasn't the close, it was the consulting. Diagnosing complex business problems, designing tailored solutions, and guiding enterprises through transformation. Now at UCD Smurfit, I'm turning that instinct into expertise.",
+    "stats": [
+      {
+        "number": "6+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "120%+",
+        "label": "Quota Attainment"
+      },
+      {
+        "number": "$M+",
+        "label": "ARR Generated"
+      }
+    ]
+  },
+  "about": {
+    "heading": "Turning Complex Sales Into",
+    "heading_accent": "Strategic Consulting",
+    "subtitle": "A consultative approach to enterprise growth — built on real-world deal rooms, boardroom presentations, and cross-functional strategy.",
+    "cards": [
+      {
+        "title": "Enterprise Sales & GTM Strategy",
+        "description": "Building go-to-market playbooks and closing multimillion-dollar deals across six industries in Asia Pacific."
+      },
+      {
+        "title": "Consultative Solution Selling",
+        "description": "Translating complex technical products into clear business outcomes for C-suite decision-makers."
+      },
+      {
+        "title": "CXO & Stakeholder Engagement",
+        "description": "Leading executive-level presentations and negotiations that convert pilots into long-term partnerships."
+      },
+      {
+        "title": "Cross-Functional Leadership",
+        "description": "Bridging product, marketing, and engineering teams to deliver integrated client solutions."
+      }
+    ]
+  },
+  "education": {
+    "education_items": [
+      {
+        "degree": "MSc Management Consultancy",
+        "institution": "UCD Michael Smurfit Graduate Business School",
+        "year": "2025 – 2026",
+        "detail": "Corporate & Competitive Strategy • Global Leadership Programme • Smurfit College Officer, Student Union"
+      },
+      {
+        "degree": "B.Tech, Civil Engineering",
+        "institution": "Lovely Professional University",
+        "year": "",
+        "detail": "First Class"
+      }
+    ],
+    "community_items": [
+      {
+        "title": "Smurfit College Officer",
+        "organization": "UCD Students' Union • 2025 – 2026"
+      },
+      {
+        "title": "Visitation & Support Volunteer",
+        "organization": "ALONE Ireland"
+      },
+      {
+        "title": "Sustainability Volunteer",
+        "organization": "The Corner, UCD"
+      },
+      {
+        "title": "Class Representative",
+        "organization": "UCD Smurfit • MSc Management Consultancy"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "date": "Jul 2022 – Apr 2025",
+      "title": "Solutions Consultant – Enterprise Sales",
+      "company": "O4S (Evato Tech Pvt Ltd)",
+      "description": "Led end-to-end SaaS sales cycles from GTM planning to closure across FMCG, building materials, agri-tech, and automotive sectors\nClosed marquee enterprise accounts in the first quarter, driving multimillion-dollar ARR\nImproved demo-to-deal conversion by 30% through ROI-driven proposals\nLaunched two new business verticals, generating new ARR streams across six industries\nConsistently achieved 120%+ quota attainment",
+      "tags": "GTM Strategy, Solution Consulting, Enterprise Sales, SaaS, Revenue Growth"
+    },
+    {
+      "date": "Mar 2020 – Mar 2022",
+      "title": "Enterprise Business Manager",
+      "company": "Cleartax (Defmacro Software Pvt Ltd)",
+      "description": "Drove end-to-end B2B enterprise sales, acquiring leading automotive, consumer goods, and IT clients\nRanked as Top National Performer for multiple quarters in the enterprise growth segment\nNegotiated and closed high-value SaaS contracts for compliance automation products",
+      "tags": "B2B Sales, Compliance Automation, Top Performer, Contract Negotiation"
+    },
+    {
+      "date": "Feb 2019 – Feb 2020",
+      "title": "Corporate Account Manager",
+      "company": "OYO Hotels & Homes",
+      "description": "Managed B2B partnerships with top pharmaceutical and manufacturing enterprises\nDelivered record client acquisitions through data-driven proposals\nConceptualised and launched a religious tourism package in Saudi Arabia, generating $100K+ revenue in a single quarter",
+      "tags": "B2B Partnerships, Revenue Growth, Market Expansion, Travel & Hospitality"
+    },
+    {
+      "date": "May 2018 – Jan 2019",
+      "title": "Senior Engineer – Sales & Marketing",
+      "company": "Gigatics Automation",
+      "description": "Initiated outbound sales for Industry 4.0 automation solutions targeting manufacturing, defence, and space organisations\nGenerated $50K+ in new business revenue through customised automation projects",
+      "tags": "Industry 4.0, Automation, Outbound Sales, Manufacturing"
+    }
+  ],
+  "projects": [
+    {
+      "name": "New Market Verticals at O4S",
+      "category": "Market Expansion",
+      "challenge": "O4S had no presence in several high-potential industries and hadn't considered them as viable business avenues.",
+      "approach": "Identified whitespace opportunities, built tailored value propositions, and ran end-to-end sales cycles to break into untapped sectors.",
+      "outcome": "Successfully closed clients in entirely new industries, creating new ARR streams and expanding the company's addressable market across six verticals.",
+      "tags": "Market Expansion, GTM Strategy, Enterprise Sales"
+    },
+    {
+      "name": "Religious Tourism Package at OYO",
+      "category": "Revenue Innovation",
+      "challenge": "Corporate accommodation in Saudi Arabia was an untapped segment with high seasonal demand around religious pilgrimages.",
+      "approach": "Conceptualised a dedicated pilgrimage travel package, negotiated hotel partnerships, and built a go-to-market strategy targeting group travel organisers.",
+      "outcome": "Generated over $100K in revenue within a single quarter — from an idea that didn't exist before.",
+      "tags": "Product Innovation, Revenue Growth, Go-To-Market"
+    },
+    {
+      "name": "Compliance Automation at Cleartax",
+      "category": "Enterprise SaaS",
+      "challenge": "South Asia's largest enterprises needed a scalable solution for indirect taxation compliance (GST) across complex, multi-entity operations.",
+      "approach": "Led consultative sales cycles with C-suite stakeholders, demonstrating how Cleartax's platform could automate compliance workflows and reduce risk.",
+      "outcome": "Closed high-value contracts with leading companies across automotive, consumer goods, and IT sectors — contributing to successful new product launches.",
+      "tags": "Compliance Automation, SaaS, Enterprise Sales"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales & Revenue",
+      "tags": "Salesforce, HubSpot, Pipeline Management, Sales Forecasting, Lead Qualification"
+    },
+    {
+      "name": "Consulting & Strategy",
+      "tags": "GTM Strategy, Market Analysis, Stakeholder Mapping, ROI Modelling, Competitive Intelligence"
+    },
+    {
+      "name": "Technology & Platforms",
+      "tags": "SaaS, CRM Systems, AI Tools, Data Analytics, API Integrations"
+    },
+    {
+      "name": "Leadership & Communication",
+      "tags": "CXO Engagement, Team Leadership, Presentations, Cross-Functional Collaboration"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I worked with Habeeb at O4S, where he owned key accounts and ran SaaS sales cycles end to end. What stood out was how well he understood the engineering side — and how effectively he used that in conversations. He quickly got to the real problem, broke it down into workable pieces, and aligned both clients and delivery teams around practical solutions.",
+      "author_name": "Jons Cyriac",
+      "author_title": "Seasoned Backend Engineer",
+      "relationship": "Worked with Habeeb at O4S",
+      "initials": "JC"
+    },
+    {
+      "quote": "Habeeb stands out as an exceptional sales professional who consistently exceeds expectations, delivering outstanding results. Demonstrating an innate ability to comprehend clients' needs, he effectively communicates how our products can address those needs. His strategic thinking and sharp market insight were instrumental in the success of the majority of the projects he closed.",
+      "author_name": "Akshay Mallapuram",
+      "author_title": "Director of Sales & Growth | Digital Transformation",
+      "relationship": "Managed Habeeb directly at O4S",
+      "initials": "AM"
+    },
+    {
+      "quote": "Habeeb is smart, talented and hardworking. His approach to sales is solution oriented and he likes to go deep into requirements of his customers. Habeeb is very vocal and passionate about the needs of his customer and is quick to identify value that software solutions can bring to customer's business.",
+      "author_name": "Gaurav Bangar",
+      "author_title": "Expert in AI, Data & Software Sales",
+      "relationship": "Senior to Habeeb at Cleartax",
+      "initials": "GB"
+    },
+    {
+      "quote": "Habeeb consistently demonstrated strong analytical skills, attention to detail and the ability to effectively communicate his ideas. He was a valuable asset to our team and consistently met or exceeded expectations on all projects. Habeeb is a quick learner and always willing to go the extra mile to ensure the success of the team.",
+      "author_name": "Vibhu Swaroop Saxena",
+      "author_title": "Entrepreneur & Resident Director, European MNC",
+      "relationship": "Worked with Habeeb on different teams",
+      "initials": "VS"
+    }
+  ],
+  "contact": {
+    "heading": "Let's Connect",
+    "subtitle": "Interested in consulting, enterprise sales, or collaboration? I'd love to hear from you. Let's discuss how we can create something impactful together.",
+    "email": "habeeb.masood@gmail.com",
+    "location": "Dublin, Ireland"
+  }
+}
